@@ -1,0 +1,6 @@
+{
+  "name": "مدیریت مشتریهای وبلاین",
+  "description": "برنامه مدیریت مشتریان، وظایف، یادداشت‌ها، و پیش‌فاکتورها برای وبلاین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
